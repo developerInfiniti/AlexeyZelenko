@@ -72,7 +72,7 @@
 
 ## 🌟 My Projects:
 - 🔥 **[My Apps](https://business-vue3.web.app/)** — Showcasing Vue3, Firebase, and API integrations
-- 💻 **[My Skills Page](https://alexeyzelenko.github.io/my-skills)** — Examples of my work and technologies
+- 💻 **[My Skills Page](https://developerinfiniti.github.io/my-skills)** — Examples of my work and technologies
 
 ## 📫 Contact Me:
 - Email: zelenkooleksii75@gmail.com
@@ -85,13 +85,13 @@
 💡 **Open to new opportunities and collaborations!**
 
 
-![Oleksii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexeyZelenko&show_icons=true&theme=dark&count_private=true)
+![Oleksii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerInfiniti&show_icons=true&theme=dark&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyZelenko&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerInfiniti&layout=compact&theme=dark)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexeyZelenko&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developerInfiniti&theme=dark)
 
 
 
